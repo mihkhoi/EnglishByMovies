@@ -1,0 +1,11 @@
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\bin\Debug\net8.0\Domain.dll
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\obj\Debug\net8.0\Domain.dll
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Code\android\doan\EnglishByMovies\server\src\Domain\obj\Debug\net8.0\ref\Domain.dll
