@@ -17,3 +17,4 @@ D:\Code\android\doan\EnglishByMovies\server\src\Infrastructure\obj\Debug\net8.0\
 D:\Code\android\doan\EnglishByMovies\server\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\Code\android\doan\EnglishByMovies\server\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 D:\Code\android\doan\EnglishByMovies\server\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Code\android\doan\EnglishByMovies\server\src\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

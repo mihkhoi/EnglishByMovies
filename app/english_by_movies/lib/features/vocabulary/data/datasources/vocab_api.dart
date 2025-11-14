@@ -1,12 +1,18 @@
-import 'package:english_by_movies/app/env.dart'; // thay tên gói đúng với pubspec_name
 import 'package:dio/dio.dart';
+import 'package:english_by_movies/app/env.dart';
+import '../models/vocab_word.dart';
 
 class VocabApi {
-  final Dio _dio = Dio(BaseOptions(baseUrl: Env.apiBaseUrl));
+  late final Dio _dio;
 
-  Future<List<Map<String, dynamic>>> list() async {
+  VocabApi({Dio? dio}) {
+    _dio = dio ?? Dio(BaseOptions(baseUrl: Env.apiBaseUrl));
+  }
+
+  Future<List<VocabWord>> list() async {
     final res = await _dio.get('/api/v1/vocab');
-    return (res.data as List).cast<Map<String, dynamic>>();
+    final list = (res.data as List).cast<Map<String, dynamic>>();
+    return list.map(VocabWord.fromJson).toList();
   }
 
   Future<void> upsert({
